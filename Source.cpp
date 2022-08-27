@@ -196,7 +196,7 @@ void showStartUp(void)
     cout << "\033[0m\n";
     cout << "KL Crypt [";
     if (lang == "zh-cn")
-        cout << "版本 0.1]\n";
+        cout << "版本 0.2]\n";
     else if (lang == "en-us")
         cout << "Version 0.2\n";
     cout << "Copyright (C) 2022 017\n\n";
